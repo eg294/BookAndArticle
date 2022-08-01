@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Article_icon"
+        android:enabled="true"
+        android:icon="@drawable/baseline_list_article"
+        android:title="@string/Article"
+       />
+    <item
+        android:id="@+id/Book_icon"
+        android:enabled="true"
+        android:icon="@drawable/baseline_book"
+        android:title="@string/Book"
+        />
+
+</menu>
